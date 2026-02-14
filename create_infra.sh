@@ -60,5 +60,5 @@ else
 fi
 
 echo "--------------------------------------"
-echo "Project Completed Successfully 🚀"
+echo "Project Completed Successfully "
 echo "--------------------------------------"
