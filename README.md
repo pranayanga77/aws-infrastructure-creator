@@ -1,2 +1,12 @@
-# aws-infrastructure-creator
-AWS Infrastructure Automation using Bash (EC2 + S3 | eu-north-1)
+# AWS Infrastructure Creator
+
+Automates:
+- S3 bucket creation (dynamic naming)
+- Latest Ubuntu AMI retrieval
+- EC2 instance launch with tagging
+
+Region: eu-north-1 (Stockholm)
+
+Usage:
+./create_infra.sh eu-north-1
+
